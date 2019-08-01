@@ -1,0 +1,1 @@
+C:\Users\ZUPPER\AndroidStudioProjects\MultipleHolderRecyclerView\buildSrc\build\classes\kotlin\main\Libs.class;C:\Users\ZUPPER\AndroidStudioProjects\MultipleHolderRecyclerView\buildSrc\build\classes\kotlin\main\Versions.class
